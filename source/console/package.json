@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "@aws-amplify/pubsub": "^6.0.16",
-    "@aws-amplify/ui-react": "^6.1.14",
+    "@aws-amplify/ui-react": "^6.2.0",
     "aws-amplify": "^6.4.3",
     "aws-sdk": "^2.1457.0",
     "bootstrap": "^5.1.0",
