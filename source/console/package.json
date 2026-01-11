@@ -44,7 +44,7 @@
     "react-ace": "^10.1.0",
     "react-dom": "^18.2.0",
     "react-js-cron": "^5.0.1",
-    "react-router-dom": "^5.2.0",
+    "react-router-dom": "^6.30.2",
     "reactstrap": "^9.0.0",
     "cron-parser": "^4.9.0",
     "solution-utils": "file:../solution-utils"
