@@ -13,7 +13,7 @@
     "test": "jest --coverage --silent"
   },
   "dependencies": {
-    "nanoid": "^3.1.25",
+    "nanoid": "^3.3.12",
     "axios": "^1.6.0"
   },
   "devDependencies": {
