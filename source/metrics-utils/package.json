@@ -30,7 +30,7 @@
     "ts-jest": "^29.2.0"
   },
   "dependencies": {
-    "@aws-sdk/client-cloudwatch": "^3.637.0",
+    "@aws-sdk/client-cloudwatch": "^3.723.0",
     "@aws-sdk/client-cloudwatch-logs": "^3.637.0",
     "@aws-sdk/client-sqs": "^3.637.0",
     "@aws-solutions-constructs/aws-eventbridge-lambda": "^2.59.0",
